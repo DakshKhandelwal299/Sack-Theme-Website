@@ -1,0 +1,47 @@
+
+    {
+        "Product1":{
+            "image": "Images/parle-g.jpg",
+            "name":"Parlge-g",
+            "cost": "10"
+            
+        },
+        "Product2":{
+            "image": "Images/lays.jpg",
+            "name":"Lays",
+            "cost": "10"
+        },
+        "Product3":{
+            "image": "Images/maggi.png",
+            "name":"Maggi Noodles",
+            "cost": "12"
+            
+        },
+        "Product4":{
+            "image": "Images/cake.jpg",
+            "name":"Britania Cake",
+            "cost": "15"
+        },
+        "Product5":{
+            "image": "Images/cola.jpg",
+            "name":"Coca Cola",
+            "cost": "30"
+            
+        },
+        "Product6":{
+            "image": "Images/m.jpg",
+            "name":"Mazza ",
+            "cost": "10"
+        }
+        
+        
+        
+    }
+  
+    
+
+
+    
+
+
+    

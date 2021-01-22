@@ -1,0 +1,89 @@
+body{
+    font-family: 'Potta One', cursive !important;
+    margin: 0px 0px;
+    padding: 0px 0px;
+    font-size: 16px;
+    background-image: linear-gradient(to right , rgb(89, 170, 89),lightblue);
+}
+.navbar,.dropdown-menu{
+    background-color: hsl(30, 56%, 36%) !important;
+    
+}
+
+.p{
+    display: none;
+}
+.dropdown-menu{
+    border: 1px solid white;
+}
+.navbar-brand{
+    transition: all  0.4s;
+ 
+ 
+  color: #fff ;
+}
+.nav-link,.dropdown-item{
+    transition: all  0.4s;
+ 
+
+}
+.dropdown-menu > li:hover{
+    background-color: hsl(30, 56%, 36%);
+}
+.nav-link:hover,.navbar-brand:hover,.color-sack:hover{
+    color: rgb(236, 208, 171) !important;
+    text-shadow: 2px 2px #915d;
+    
+}
+.dropdown-item:hover{
+   
+    color: hsl(30, 56%, 36%) !important;
+    
+       
+}
+.c{
+    display: none;
+ 
+
+}
+.P{
+    display: none;
+}
+
+
+@media screen and (max-width: 991px) {
+    
+    .navbar-nav{
+        display: flex;
+     align-items: center;
+        
+        
+    }
+    .dropdown{
+        display: none;
+    }
+    .p{
+        display: block;
+    }
+   
+    
+}
+.c{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    background-color: lightgray;
+    border: 2px solid black;
+    
+}
+
+@media screen and (max-width: 336px) {
+    .c{
+        display: block;
+    }
+    
+    .navbar-brand{
+        display: none;
+    }
+}
+
