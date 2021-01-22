@@ -1,7 +1,7 @@
 
     {
         "Product1":{
-            "image": "Project-1/Images/parle-g.jpg",
+            "image": "/Images/parle-g.jpg",
             "name":"Parlge-g",
             "cost": "10"
             
