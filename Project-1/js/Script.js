@@ -5,6 +5,7 @@ function Load() {
     document.querySelector('.load').style.display = "none";
     
 }
+window.version = "1.0.0"
 
 // Ajax
 function Pf() {
@@ -52,5 +53,15 @@ xhr.send()
 }
 Pf()
 ;
+
+function G_P_S_T_W(password) {
+
+  if (password = "S_1_T_3_5_45635.24") {
+    console.log(window.version);
+    
+  }
+  
+}
+
 
 
